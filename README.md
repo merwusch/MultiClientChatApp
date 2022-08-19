@@ -1,2 +1,2 @@
 # MultiClientChatApp
-Çok kullanıcılı yazışma aplikasyonu
+Çok kullanıcılı soket yazışma uygulaması
