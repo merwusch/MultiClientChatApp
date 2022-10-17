@@ -38,3 +38,14 @@ C:\Users\merve\source\repos\MultiClientChat\server\server\obj\Debug\server.cspro
 C:\Users\merve\source\repos\MultiClientChat\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
 C:\Users\merve\source\repos\MultiClientChat\server\server\obj\Debug\server.exe
 C:\Users\merve\source\repos\MultiClientChat\server\server\obj\Debug\server.pdb
+C:\Users\mervenur.yilmaz\source\repos\MultiClientChatApp\server\server\bin\Debug\server.exe.config
+C:\Users\mervenur.yilmaz\source\repos\MultiClientChatApp\server\server\bin\Debug\server.exe
+C:\Users\mervenur.yilmaz\source\repos\MultiClientChatApp\server\server\bin\Debug\server.pdb
+C:\Users\mervenur.yilmaz\source\repos\MultiClientChatApp\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\mervenur.yilmaz\source\repos\MultiClientChatApp\server\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+C:\Users\mervenur.yilmaz\source\repos\MultiClientChatApp\server\server\obj\Debug\server.Form1.resources
+C:\Users\mervenur.yilmaz\source\repos\MultiClientChatApp\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\mervenur.yilmaz\source\repos\MultiClientChatApp\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\mervenur.yilmaz\source\repos\MultiClientChatApp\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\mervenur.yilmaz\source\repos\MultiClientChatApp\server\server\obj\Debug\server.exe
+C:\Users\mervenur.yilmaz\source\repos\MultiClientChatApp\server\server\obj\Debug\server.pdb

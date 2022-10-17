@@ -24,15 +24,15 @@ namespace server
         public Form1()
         {
             InitializeComponent();
-            CheckForIllegalCrossThreadCalls = false;
+            CheckForIllegalCrossThreadCalls = false; //THREADLERİN DEAKTİVE EDİLMEMESİ GEREKİYOR
             __ClientSockets = new List<SocketT2h>();
         }
         //AsyncCallback demek thread gibi eş zamansız çalışabılıyor
         private void SetupServer()
         {
             label1.Text = "sunucu başlatıldı . . .";
-            //serverSocket.Bind(new IPEndPoint(IPAddress.Any, 100));//IPAddress.Any=127.0.0.1,100 portunu dinliyor
-            _serverSocket.Bind(new IPEndPoint(IPAddress.Parse("127.0.0.1"), 100));//127.0.0.1,100 portunu dinliyor
+            //serverSocket.Bind(new IPEndPoint(IPAddress.Any, 100));//IPAddress.Any=127.0.0.1,100 portunu tanımlıyor
+            _serverSocket.Bind(new IPEndPoint(IPAddress.Parse("127.0.0.1"), 4000));//127.0.0.1,4000 portunu tanımlıyor
             _serverSocket.Listen(1);//dinliyor
 
             _serverSocket.BeginAccept(new AsyncCallback(AppceptCallback), null); //Async=asenkron yani eş zamansız Callback=Geri arama

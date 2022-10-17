@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server", "server\server.csproj", "{7EFCED52-66D7-43D1-849F-DD9819C865BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "omsServer1", "omsServer1\omsServer1.csproj", "{9C7AE071-8094-448A-9AA4-21BF7922D702}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{7EFCED52-66D7-43D1-849F-DD9819C865BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EFCED52-66D7-43D1-849F-DD9819C865BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EFCED52-66D7-43D1-849F-DD9819C865BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C7AE071-8094-448A-9AA4-21BF7922D702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7AE071-8094-448A-9AA4-21BF7922D702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7AE071-8094-448A-9AA4-21BF7922D702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7AE071-8094-448A-9AA4-21BF7922D702}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B1F04E0-15FB-4C0C-A740-98E1E32EF42B}
 	EndGlobalSection
 EndGlobal
